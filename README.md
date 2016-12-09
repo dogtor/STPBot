@@ -8,11 +8,12 @@ A Good Bot For Converting Formats Between Webp And Png !
   
   `pip install pytelegrambotapi`
   
-  `git clone https://github.com/Think-Team/StickerBot`
+  `git clone https://github.com/dogtor/STPBot`
   
-  `cd Stickerbot`
+  `cd STPBot`
   
+  ******************
   
-    `  ++++++++ Copy Your Token And Id On Config.py ++++++++` Then
+    `++++++++ Copy Your Token And Id On Config.py ++++++++` Then
   python bot.py   
   Will You See Onlined Pm On Terminal And Your Pv :|<3
