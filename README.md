@@ -2,7 +2,8 @@
 A Good Bot For Converting Formats Between Webp And Png !
 
 *How To Launch =>*
-  Installation =>
+  Installation ⏬⏬
+  
   `sudo apt-get install python-pip`
   
   `pip install pytelegrambotapi`
